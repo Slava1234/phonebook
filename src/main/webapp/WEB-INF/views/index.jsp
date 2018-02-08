@@ -38,7 +38,7 @@
                 </div>
             </div>
         </div>
-        
+         
         <script type="text/javascript">
             $(function () {
                 console.log("ajax start");

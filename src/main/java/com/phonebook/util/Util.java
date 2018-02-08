@@ -10,7 +10,7 @@ import org.springframework.stereotype.Component;
 public class Util {
     private static final String URL = "jdbc:mysql://localhost:3306/phonebook?autoReconnect=true&useSSL=false&useLegacyDatetimeCode=false&serverTimezone=UTC";
     private static final String USERNAME = "root";
-    private static final String PASSWORD = "shuffle";
+    private static final String PASSWORD = "";
 
     public Connection getConnection() {
         Connection connection = null;
